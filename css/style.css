@@ -1824,3 +1824,8 @@ input:checked + .slider::before{ transform: translateX(26px);}
 .header-search-details.open-search-info {
 	top: 0;
 }
+
+.wrap-my-portfolio-email{
+	word-break: break-all;
+}
+
